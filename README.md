@@ -1,2 +1,0 @@
-# AngularJS-Course
-AngularJS
